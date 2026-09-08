@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortStudio/releases/download/v1.0.13/OortCloud AI Studio.exe",
-  "name": "1.0.13",
-  "version": "1.0.13",
-  "productVersion": "1.0.13.0",
-  "hash": "e2f390f27b5b4a96e98d67afb61f417152db1fb8",
-  "timestamp": 1788539058393,
-  "sha256hash": "47c4104a323a8807da06655d3b15f40a50594fda54b2e6d2ab8a186c4f2f6d02",
-  "logs": "## 1.0.12\n\n- 内置最新1.0.25版本codex\n-平台更新模块迭代"
+  "url": "https://gitcode.com/OortCloudGroup/OortStudio/releases/download/v1.0.14/OortCloud AI Studio.exe",
+  "name": "1.0.14",
+  "version": "1.0.14",
+  "productVersion": "1.0.14.0",
+  "hash": "92d9fad92a062bfcbcccaee16848c0ab9a5f5566",
+  "timestamp": 1788881674902,
+  "sha256hash": "a406c46e6f97fc8b2c5acdf9b44eeb423922ce7ef4b61d2412bbfdc04f63ac4b",
+  "logs": "## 1.0.14\n\n- 全新 Quest 模式与 IDE 模式并存\n-平台更新模块迭代"
 }
