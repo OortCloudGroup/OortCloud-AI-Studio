@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortStudio/releases/download/v1.0.16/OortCloud AI Studio.exe",
-  "name": "1.0.16",
-  "version": "1.0.16",
-  "productVersion": "1.0.16.0",
-  "hash": "c1adeb0823e70922351b15f84c7a588dfa31d4cf",
-  "timestamp": 1789631565046,
-  "sha256hash": "6581bfd388eb84164521cf96141fbf7a8a60e4e9b7b2cf7c38c87018174e9eda",
-  "logs": "## 1.0.16\n\n- 内置OortCodex 1.0.32版本 \n-优化输入体验"
+  "url": "https://gitcode.com/OortCloudGroup/OortStudio/releases/download/v1.0.17/OortCloud AI Studio.exe",
+  "name": "1.0.17",
+  "version": "1.0.17",
+  "productVersion": "1.0.17.0",
+  "hash": "4a40f2bc397dc3e866633b75aeaf3b16d2be3f17",
+  "timestamp": 1789740094937,
+  "sha256hash": "df7dcdb0379d3602c5d7e32352153cd003509cc9ef12b87f991376f31f67f205",
+  "logs": "## 1.0.17\n\n- 支持文件拖拽以及优化 Quest 模式下的布局初始化和部件显示控制 \n-优化输入体验"
 }
