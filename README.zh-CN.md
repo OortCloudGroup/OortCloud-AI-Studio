@@ -57,7 +57,7 @@ OortCloud AI Studio 是一套专为 AI 开发者打造的一体化开发工具�
 
 ```powershell
 # 使用指定版本更新 latest.json；默认 EXE 路径：G:\lanjian\nginx\html_88_56\OortCloud AI Studio.exe
-.\scripts\update-latest.ps1 -Version "1.0.5"
+.\scripts\update-latest.ps1 -Version "1.0.18"
 
 # 使用自定义可执行文件路径
 .\scripts\update-latest.ps1 -Version "1.0.6" -ExePath "G:\lanjian\nginx\html_88_56\OortCloud AI Studio.exe"

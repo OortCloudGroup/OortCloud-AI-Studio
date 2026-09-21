@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortStudio/releases/download/v1.0.17/OortCloud AI Studio.exe",
-  "name": "1.0.17",
-  "version": "1.0.17",
-  "productVersion": "1.0.17.0",
-  "hash": "4a40f2bc397dc3e866633b75aeaf3b16d2be3f17",
-  "timestamp": 1789740094937,
-  "sha256hash": "df7dcdb0379d3602c5d7e32352153cd003509cc9ef12b87f991376f31f67f205",
-  "logs": "## 1.0.17\n\n- 支持文件拖拽以及优化 Quest 模式下的布局初始化和部件显示控制 \n-优化输入体验"
+  "url": "https://gitcode.com/OortCloudGroup/OortStudio/releases/download/v1.0.18/OortCloud AI Studio.exe",
+  "name": "1.0.18",
+  "version": "1.0.18",
+  "productVersion": "1.0.18.0",
+  "hash": "47e20b77d4c80b65d689ffb4306071fdaa2cb5d0",
+  "timestamp": 1789985676326,
+  "sha256hash": "cce9e6b6c74c1b47ae25c5d31e8f4d18604fd41774ebbdd0bcefd6ae39b70f56",
+  "logs": "## 1.0.18\n\n- 支持ctrl+c粘贴文件/文件夹  \n\n -新增点赞和问题反馈功能 \n\n -修复一些bug"
 }
