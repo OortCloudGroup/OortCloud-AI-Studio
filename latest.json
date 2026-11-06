@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortStudio/releases/download/v1.0.18/OortCloud AI Studio.exe",
-  "name": "1.0.18",
-  "version": "1.0.18",
-  "productVersion": "1.0.18.0",
-  "hash": "47e20b77d4c80b65d689ffb4306071fdaa2cb5d0",
-  "timestamp": 1789985676326,
-  "sha256hash": "cce9e6b6c74c1b47ae25c5d31e8f4d18604fd41774ebbdd0bcefd6ae39b70f56",
-  "logs": "## 1.0.18\n\n- 支持ctrl+c粘贴文件/文件夹  \n\n -新增点赞和问题反馈功能 \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/OortStudio/releases/download/v1.0.19/OortCloud AI Studio.exe",
+  "name": "1.0.19",
+  "version": "1.0.19",
+  "productVersion": "1.0.19.0",
+  "hash": "80d1651dfe30bad2753295e704880fcf67923403",
+  "timestamp": 1793935681343,
+  "sha256hash": "1776168985169a00454879d48bafecebab35b27e5c5c314de42a2aa481e3ee2c",
+  "logs": "## 1.0.19\n\n- 支专家体系上线  \n\n -资产管理 \n\n -部署流程完善 \n\n -修复一些bug"
 }
